@@ -19,9 +19,10 @@ Prerequisites:
 - Java Development Kit (JDK) installed on your system.
 
 How to Run:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-4. Run the program: `java Main.java`
+1.Clone the repository to your local machine.
+2.Navigate to the project directory.
+3.Compile the Java files: javac PizzaShopBillGenerator.java
+4.Run the program: java PizzaShopBillGenerator
 
 ### License:
 This project is open-source and available under the Abishek.S
